@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project is an end-to-end Machine Learning pipeline that predicts whether a customer is likely to return an e-commerce purchase. By analyzing customer demographics and purchase details, businesses can identify high-risk transactions and optimize their shipping and return policies.
+This project is an end-to-end Machine Learning pipeline that predicts whether a customer is likely to return an e-commerce purchase. As part of a class project, I start by analyzing customer demographics and purchase details, businesses can identify high-risk transactions and optimize their shipping and return policies.
 
 ### Features
 
